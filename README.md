@@ -35,6 +35,8 @@ Puedes encontrar algunos de mis proyectos en mi perfil de GitHub. Si estás inte
 
 </h3>
 
+-----------
+
 <h3 align="center">¡Gracias por pasar por aquí!</h3>
 <h4 align="center">Siéntete libre de explorar mis proyectos y dejar comentarios o sugerencias. </h4>
 <h4 align="center">¡Siempre estoy buscando maneras de mejorar!</h4>
