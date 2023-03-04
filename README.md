@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ## Acerca de mi
 ¡Hola! Bienvenido/a a mi perfil de GitHub. Soy Karen, una desarrolladora web Full Stack apasionada por la tecnología y comprometida con el aprendizaje constante.
