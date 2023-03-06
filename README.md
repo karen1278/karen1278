@@ -28,6 +28,16 @@ Puedes encontrar algunos de mis proyectos en mi perfil de GitHub. Si estás inte
 
 --------
 
+## Redes sociales
+
+   <a href="https://www.linkedin.com/in/karen-cisneros-800143191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kjaneth111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/renks.th?igshid=ZDdkNTZiNTM=/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+
+--------
+
+
 <h2  align="center"> 
   contador de visitantes <br>
   <img src="https://profile-counter.glitch.me/karen-1278/count.svg" />
